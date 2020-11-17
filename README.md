@@ -1,4 +1,4 @@
-# School project WiFi Localization based on RSS fingerprint
+#WiFi Localization based on RSS fingerprint
 
 Techniques d'apprentissage automatique au problème de la localisation indoor via l'empreinte wifi avec le langage "Python"
 
